@@ -1,0 +1,2 @@
+Na samom početku smo se upoznavali sa bazama, entitetima, vezama i odnosima preko oracle academy programa. 
+Kada smo presli na pisanje sql koda radili smo zadatke sa petlje.
