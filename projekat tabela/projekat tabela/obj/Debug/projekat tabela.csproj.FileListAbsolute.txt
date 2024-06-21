@@ -1,0 +1,60 @@
+C:\Users\pc\source\repos\projekat tabela\projekat tabela\bin\Debug\tabela.txt
+C:\Users\pc\source\repos\projekat tabela\projekat tabela\bin\Debug\projekat tabela.exe.config
+C:\Users\pc\source\repos\projekat tabela\projekat tabela\bin\Debug\projekat tabela.exe
+C:\Users\pc\source\repos\projekat tabela\projekat tabela\bin\Debug\projekat tabela.pdb
+C:\Users\pc\source\repos\projekat tabela\projekat tabela\obj\Debug\projekat tabela.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\projekat tabela\projekat tabela\obj\Debug\projekat tabela.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\projekat tabela\projekat tabela\obj\Debug\projekat_tabela.Form1.resources
+C:\Users\pc\source\repos\projekat tabela\projekat tabela\obj\Debug\projekat_tabela.Properties.Resources.resources
+C:\Users\pc\source\repos\projekat tabela\projekat tabela\obj\Debug\projekat tabela.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\projekat tabela\projekat tabela\obj\Debug\projekat tabela.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\projekat tabela\projekat tabela\obj\Debug\projekat tabela.exe
+C:\Users\pc\source\repos\projekat tabela\projekat tabela\obj\Debug\projekat tabela.pdb
+C:\Users\pc\source\repos\projekat tabela\projekat tabela\obj\Debug\projekat_tabela.Form2.resources
+C:\Users\pc\source\repos\projekat tabela\projekat tabela\obj\Debug\projekat_tabela.Form3.resources
+C:\Users\X\Desktop\projekat tabela\projekat tabela\bin\Debug\tabela.txt
+C:\Users\X\Desktop\projekat tabela\projekat tabela\bin\Debug\projekat tabela.exe.config
+C:\Users\X\Desktop\projekat tabela\projekat tabela\bin\Debug\projekat tabela.exe
+C:\Users\X\Desktop\projekat tabela\projekat tabela\bin\Debug\projekat tabela.pdb
+C:\Users\X\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat tabela.csproj.AssemblyReference.cache
+C:\Users\X\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat tabela.csproj.SuggestedBindingRedirects.cache
+C:\Users\X\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat_tabela.Form1.resources
+C:\Users\X\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat_tabela.Form2.resources
+C:\Users\X\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat_tabela.Form3.resources
+C:\Users\X\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat_tabela.Properties.Resources.resources
+C:\Users\X\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat tabela.csproj.GenerateResource.cache
+C:\Users\X\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat tabela.csproj.CoreCompileInputs.cache
+C:\Users\X\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat tabela.exe
+C:\Users\X\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat tabela.pdb
+C:\Users\pc\Desktop\aprgrejd\projekat tabela\projekat tabela\bin\Debug\tabela.txt
+C:\Users\pc\Desktop\aprgrejd\projekat tabela\projekat tabela\bin\Debug\projekat tabela.exe.config
+C:\Users\pc\Desktop\aprgrejd\projekat tabela\projekat tabela\bin\Debug\projekat tabela.exe
+C:\Users\pc\Desktop\aprgrejd\projekat tabela\projekat tabela\bin\Debug\projekat tabela.pdb
+C:\Users\pc\Desktop\aprgrejd\projekat tabela\projekat tabela\obj\Debug\projekat tabela.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\aprgrejd\projekat tabela\projekat tabela\obj\Debug\projekat tabela.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\aprgrejd\projekat tabela\projekat tabela\obj\Debug\projekat_tabela.Form1.resources
+C:\Users\pc\Desktop\aprgrejd\projekat tabela\projekat tabela\obj\Debug\projekat_tabela.Form2.resources
+C:\Users\pc\Desktop\aprgrejd\projekat tabela\projekat tabela\obj\Debug\projekat_tabela.Form3.resources
+C:\Users\pc\Desktop\aprgrejd\projekat tabela\projekat tabela\obj\Debug\projekat_tabela.Properties.Resources.resources
+C:\Users\pc\Desktop\aprgrejd\projekat tabela\projekat tabela\obj\Debug\projekat tabela.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\aprgrejd\projekat tabela\projekat tabela\obj\Debug\projekat tabela.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\aprgrejd\projekat tabela\projekat tabela\obj\Debug\projekat tabela.exe
+C:\Users\pc\Desktop\aprgrejd\projekat tabela\projekat tabela\obj\Debug\projekat tabela.pdb
+C:\Users\pc\Desktop\aprgrejd\projekat tabela\projekat tabela\obj\Debug\projekat_tabela.Form4.resources
+C:\Users\pc\Desktop\aprgrejd\projekat tabela\projekat tabela\bin\Debug\Balans.txt
+C:\Users\pc\Desktop\projekat tabela\projekat tabela\bin\Debug\Balans.txt
+C:\Users\pc\Desktop\projekat tabela\projekat tabela\bin\Debug\tabela.txt
+C:\Users\pc\Desktop\projekat tabela\projekat tabela\bin\Debug\projekat tabela.exe.config
+C:\Users\pc\Desktop\projekat tabela\projekat tabela\bin\Debug\projekat tabela.exe
+C:\Users\pc\Desktop\projekat tabela\projekat tabela\bin\Debug\projekat tabela.pdb
+C:\Users\pc\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat tabela.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat tabela.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat_tabela.Form1.resources
+C:\Users\pc\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat_tabela.Form2.resources
+C:\Users\pc\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat_tabela.Form3.resources
+C:\Users\pc\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat_tabela.Form4.resources
+C:\Users\pc\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat_tabela.Properties.Resources.resources
+C:\Users\pc\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat tabela.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat tabela.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat tabela.exe
+C:\Users\pc\Desktop\projekat tabela\projekat tabela\obj\Debug\projekat tabela.pdb

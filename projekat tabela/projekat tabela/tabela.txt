@@ -1,0 +1,7 @@
+﻿6
+Partizan,0,0,0
+Napredak,0,0,0
+Mladost,0,0,0
+Radnicki Nis,0,0,0
+Vojvodina,0,0,0
+Crvena Zvezda,0,0,0
